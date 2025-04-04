@@ -9,11 +9,7 @@
     "lint": "next lint",
     "postinstall": "prisma generate"
   },
-  "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
-  },
+  
   "description": "The connected workspace where better, faster work happens.",
   "keywords": [
     "reactjs",
